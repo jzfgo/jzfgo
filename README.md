@@ -18,5 +18,5 @@ My current phone is a **OnePlus 8 Pro** and I have a couple of desktop PC's dual
 
 ![Image](https://github-readme-stats.vercel.app/api?username=jzfgo&show_icons=true&theme=dracula)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs?username=jzfgo&langs_count=3&theme=dracula)
-![Image](https://github-readme-stats.vercel.app/api/pin?username=jzfgo&repo=redsys-virtual-pos&theme=dracula)
-![Image](https://github-readme-stats.vercel.app/api/pin?username=jzfgo&repo=spanish-guest-report-generator&theme=dracula)
+![Image](https://github-readme-stats.vercel.app/api/pin?username=bahiazul&repo=redsys-virtual-pos&theme=dracula)
+![Image](https://github-readme-stats.vercel.app/api/pin?username=bahiazul&repo=spanish-guest-report-generator&theme=dracula)
