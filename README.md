@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a frontend developer, UX / UI designer, which also happens to do backend, devops, and digital marketing if need be. My passion is to create interactive experiences that delight users and I firmly believe that this can only be achieved with a combination of creativity, innovation and attention to detail.
+I'm a self-taught designer, developer, and consultant interested in solving problems through creativity and technology. My passion is to create interactive experiences that delight users and I firmly believe that this can only be achieved with a combination of creativity, innovation and attention to detail.
 
 My career started as a designer (for both print and interactive media), but around 1999 I discovered [Marcomedia Flash](https://wikipedia.org/wiki/Adobe_Flash) and I was blown away with all the posibilities that it opened. I immediately started tinkering with [ActionScript](https://en.wikipedia.org/wiki/ActionScript) and other technologies and never stopped learning since.
 
